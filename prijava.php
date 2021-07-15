@@ -18,3 +18,4 @@
     	<button class="btn btn-info">Prijava</button>
 	</form>
 </div>
+<?php require('footer.php')?>
